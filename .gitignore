@@ -1,0 +1,16 @@
+
+.build/checkouts/async-http-client/
+.build/checkouts/async-kit/
+.build/checkouts/console-kit/
+.build/checkouts/routing-kit/
+.build/checkouts/swift-backtrace/
+.build/checkouts/swift-crypto/
+.build/checkouts/swift-log/
+.build/checkouts/swift-metrics/
+.build/checkouts/swift-nio-extras/
+.build/checkouts/swift-nio-http2/
+.build/checkouts/swift-nio-ssl/
+.build/checkouts/swift-nio-transport-services/
+.build/checkouts/websocket-kit/
+.build/checkouts/swift-nio/
+.build/checkouts/vapor/
