@@ -14,3 +14,4 @@
 .build/checkouts/websocket-kit/
 .build/checkouts/swift-nio/
 .build/checkouts/vapor/
+.swiftpm/xcode/package.xcworkspace/xcuserdata/ianthomas.xcuserdatad/UserInterfaceState.xcuserstate
