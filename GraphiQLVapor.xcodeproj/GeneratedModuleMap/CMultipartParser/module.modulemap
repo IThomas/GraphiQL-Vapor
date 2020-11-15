@@ -1,0 +1,4 @@
+module CMultipartParser {
+    umbrella "/Users/ianthomas/Swift/GitHub/GraphiQLVapor/.build/checkouts/vapor/Sources/CMultipartParser/include"
+    export *
+}

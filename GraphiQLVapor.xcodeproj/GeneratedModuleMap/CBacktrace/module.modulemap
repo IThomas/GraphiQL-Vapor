@@ -1,0 +1,4 @@
+module CBacktrace {
+    umbrella "/Users/ianthomas/Swift/GitHub/GraphiQLVapor/.build/checkouts/swift-backtrace/Sources/CBacktrace/include"
+    export *
+}

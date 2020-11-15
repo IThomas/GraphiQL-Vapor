@@ -1,0 +1,4 @@
+module CURLParser {
+    umbrella "/Users/ianthomas/Swift/GitHub/GraphiQLVapor/.build/checkouts/vapor/Sources/CURLParser/include"
+    export *
+}
